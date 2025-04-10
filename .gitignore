@@ -2,3 +2,4 @@ venv
 .env
 MakeItTalk
 sandbox
+audio_cache

@@ -1,0 +1,9 @@
+opencv-python
+keras
+tensorflow
+python-dotenv
+openai
+sounddevice
+gTTS
+Pillow
+librosa
